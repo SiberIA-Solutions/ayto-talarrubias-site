@@ -1,0 +1,16 @@
+{
+  "name": "Ayuntamiento de Talarrubias · producto digital",
+  "short_name": "AytoTalarrubias",
+  "lang": "es",
+  "display": "browser",
+  "theme_color": "#153654",
+  "background_color": "#f7f5f0",
+  "icons": [
+    {
+      "src": "escudo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
