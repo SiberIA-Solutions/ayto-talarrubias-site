@@ -1,0 +1,28 @@
+{
+  "name": "Ayuntamiento de Talarrubias · producto digital",
+  "short_name": "AytoTalarrubias",
+  "lang": "es",
+  "display": "browser",
+  "theme_color": "#153654",
+  "background_color": "#f7f5f0",
+  "icons": [
+    {
+      "src": "assets/visual/logos/escudo-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/visual/logos/escudo-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/visual/logos/escudo-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
